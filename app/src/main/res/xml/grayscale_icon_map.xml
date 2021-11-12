@@ -90,4 +90,9 @@
     <icon drawable="@drawable/gallery_go" package="com.google.android.apps.photosgo" name="Gallery Go" />
     <icon drawable="@drawable/tapatalk_pro" package="com.quoord.tapatalk" name="Tapatalk Pro" />
     <icon drawable="@drawable/xda" package="com.xda.labs" name="XDA" />
+    <icon drawable="@drawable/g1" package="com.globo.g1.app" name="g1" />
+    <icon drawable="@drawable/globoplay" package="com.globo.globotv" name="Globoplay" />
+    <icon drawable="@drawable/protonmail" package="ch.protonmail.android" name="ProtonMail" />
+    <icon drawable="@drawable/wavelet" package="com.pittvandewitt.wavelet" name="Wavelet" />
+    <icon drawable="@drawable/authy" package="com.authy.authy" name="Authy" />
 </icons>
