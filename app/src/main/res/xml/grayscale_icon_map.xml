@@ -38,6 +38,7 @@
     <icon drawable="@drawable/strava" package="com.strava" name="Strava" />
     <icon drawable="@drawable/opera_browser" package="com.opera.browser" name="Opera Browser" />
     <icon drawable="@drawable/whatsapp" package="com.whatsapp" name="WhatsApp" />
+    <icon drawable="@drawable/whatsapp" package="com.gbwhatsapp" name="GBWhatsApp" />
     <icon drawable="@drawable/reddit" package="com.reddit.frontpage" name="Reddit" />
     <icon drawable="@drawable/twitter" package="com.twitter.android" name="Twitter" />
     <icon drawable="@drawable/dashlane" package="com.dashlane" name="Dashlane" />
@@ -94,5 +95,5 @@
     <icon drawable="@drawable/globoplay" package="com.globo.globotv" name="Globoplay" />
     <icon drawable="@drawable/protonmail" package="ch.protonmail.android" name="ProtonMail" />
     <icon drawable="@drawable/wavelet" package="com.pittvandewitt.wavelet" name="Wavelet" />
-    <icon drawable="@drawable/authy" package="com.authy.authy" name="Authy" />
+    <icon drawable="@drawable/authy" package="com." name="Authy" />
 </icons>
